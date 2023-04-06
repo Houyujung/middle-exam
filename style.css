@@ -234,7 +234,7 @@ article{
     width: 80%;
     background-image: url(img/background/貓貓2.jpeg);
     background-position: 80%;
-    animation-name: py;
+    animation-name: html;
     animation-duration: 4s;
     animation-fill-mode: forwards;
     animation-iteration-count: 1;
@@ -252,8 +252,8 @@ article{
     border-radius: 50;
     width: 80%;
     background-image: url(img/background/貓貓2.jpeg);
-    background-position: 75%;
-    animation-name: py;
+    background-position: 80%;
+    animation-name: css;
     animation-duration: 4s;
     animation-fill-mode: forwards;
     animation-iteration-count: 1;
